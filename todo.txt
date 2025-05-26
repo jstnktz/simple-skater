@@ -1,0 +1,9 @@
+[x] Create index.html and set up p5.js
+[x] Create skater/ directory for modular game code
+[x] Implement undulating ground with tweakable parameters
+[x] Implement parallax cityscape with day-night cycle and animated clouds
+[x] Implement stick-figure skater with jump and kickflip
+[ ] Implement smooth scrolling for ground and city
+[ ] Modularize code for easy addition of obstacles/collectibles
+[x] Write architecture and feature docs in /docs
+[x] Update README with features and instructions 

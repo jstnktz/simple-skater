@@ -1,0 +1,25 @@
+body {
+  background: #222;
+  color: #fff;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+#game-title {
+  margin-top: 1.5em;
+  font-size: 2.2em;
+  letter-spacing: 0.05em;
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+canvas {
+  margin: 2em auto;
+  display: block;
+  border: 24px solid #222;
+  border-radius: 48px;
+  box-shadow: 0 4px 24px #0008;
+} 
